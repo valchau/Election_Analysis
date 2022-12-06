@@ -31,7 +31,7 @@ The following results were found:
   Raymon Anthony Doane got 11,606 votes which is 3.1% of the vote.
   
   Please see this image of the results:
-  [Summary of Counties and Candidate Results](analysis/Deliverable1.png) 
+  [Summary of Counties and Candidate Results](analysis/election_analysis.png) 
 
 ## Election-Audit Summary
 In Conclusion, this new Python script can be used to process any csv election file containing the number of votes for each candidate for each county in the data. You can use this for election data for the entire state if you have the number of votes for each county for each candidate. The program is flexible enough to add as many counties and candidates as necessary. It gives a summary report when run in the terminal but at the same time, the program writes out a text file with the results that you can send as needed by email or place on a website.
